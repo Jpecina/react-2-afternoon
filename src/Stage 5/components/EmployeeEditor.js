@@ -10,8 +10,7 @@ class EmployeeEditor extends Component {
     };
   }
 
-  // componentWillReceiveProps
-
+componentWillReceiveProps
   // handleChange
 
   // save
